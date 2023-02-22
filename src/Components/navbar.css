@@ -1,0 +1,17 @@
+
+/* .active{
+    color:red;
+} */
+.hovereffect:hover{
+    color:red;
+    text-decoration: underline;
+    text-decoration-thickness: 8px;
+    text-decoration-color: red;
+}
+.menuitem{
+    color: black;
+}
+.menuitem:hover{
+    background-color: red;
+    color: black;
+}
