@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+    
+}
+#maincontainer{
+    width: 90%;
+    margin: auto;
+}
+#upperposter{
+    margin-top: 15px;
+    
+}
+.Gridbox{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    margin: 15px;
+   
+}
+.Gridbox div{
+    width: 70%;
+    margin: 10px;
+}
+.part25{
+    width: 15%;
+    border: 1px solid red;
+    margin: 15px;
+}
+.part25 img{
+    width: 100%;
+}
+.part30{
+    width: 40%;
+}
+.part30 img{
+    width: 100%;
+}
+.part25 div{
+    width: 50%;
+}
+.flexcontainer{
+    display: flex;
+}
+.trending{
+    display: flex;
+    justify-content: space-between;
+    background-color: red;
+    color: aliceblue;
+    padding: 15px;
+}
+.trendingbox img{
+    width: 45%;
+   
+}
+.video_section img{
+    width: 100%;
+}

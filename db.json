@@ -1,0 +1,62 @@
+{
+    "data": [
+      { "id": 1, "name": "Poco X3","price": 44500, "category":"mobile","discount":"discount-item",
+      "img":"https://i.gadgets360cdn.com/products/small/poco-x5-pro-5g-db-240x180-1675686969.jpg",
+      "rating" : "4.2",
+       "quantity" : 1
+      },
+      { "id": 2, "name": "Vivo YS6 5G","price": 40500, "category":"mobile","discount":"discount-item",
+      "img":"https://i.gadgets360cdn.com/products/small/vivo-y56-5g-db-240x180-1676541525.jpg?downsize=*:80",
+      "rating" : "4.3",
+       "quantity" : 1
+      },
+      { "id": 3, "name": "Redmi 10 (2022) ","price": 32500, "category":"mobile","discount":"discount-item",
+      "img":"https://i.gadgets360cdn.com/products/small/redmi-10-2022-240x180-1644816688.jpg?downsize=*:80",
+      "rating" : "4.0",
+       "quantity" : 1
+      },
+      { "id": 4, "name": "One Plus 11B","price": 50500, "category":"mobile","discount":"discount-item",
+      "img":"https://i.gadgets360cdn.com/products/small/redmi-10-2022-240x180-1644816688.jpg?downsize=*:80",
+      "rating" : "4.5",
+       "quantity" : 1
+      },
+      { "id": 5, "name": "One Plus Nord CE 2 Lite 5G","price": 60500, "category":"mobile","discount":"discount-item",
+      "img":"https://i.gadgets360cdn.com/products/small/redmi-10-2022-240x180-1644816688.jpg?downsize=*:80",
+      "rating" : "4.9",
+       "quantity" : 1
+      },
+      { "id": 6, "name": "Iphone 13","price": 90999, "category":"mobile","discount":"discount-item",
+      "img":"https://i.gadgets360cdn.com/products/small/iphone-13-1-240x180-1631648722.jpg?downsize=*:80",
+      "rating" : "4.9",
+       "quantity" : 1
+      },
+      { "id": 7, "name": "Poco C5s","price": 15000, "category":"mobile","discount":"discount-item",
+      "img":"https://i.gadgets360cdn.com/products/small/poco-c55-240x180-1676963902.jpg?downsize=*:80",
+      "rating" : "4.2",
+       "quantity" : 1
+      },
+      { "id": 8, "name": "Honor Magic 5 Lite","price": 32999, "category":"mobile","discount":"discount-item",
+      "img":"https://i.gadgets360cdn.com/products/small/redmi-10-2022-240x180-1644816688.jpg?downsize=*:80",
+      "rating" : "4.2",
+       "quantity" : 1
+      },
+      { "id": 9, "name": "Techno Pop 7 Pro","price": 18999, "category":"mobile","discount":"discount-item",
+      "img":"https://i.gadgets360cdn.com/products/small/poco-x5-pro-5g-db-240x180-1675686969.jpg",
+      "rating" : "3.2",
+       "quantity" : 1
+      },
+      { "id": 10, "name": "Vivo YS6 5G","price": 40500, "category":"mobile","discount":"discount-item",
+      "img":"https://i.gadgets360cdn.com/products/small/vivo-y56-5g-db-240x180-1676541525.jpg?downsize=*:80",
+      "rating" : "4.3",
+       "quantity" : 1
+      },
+    { "id": 11, "name": "Vivo Y100","price": 32999, "category":"mobile","discount":"discount-item",
+    "img":"https://i.gadgets360cdn.com/products/small/Vivo-Y100-DB-240x180-1676538863.jpg?downsize=*:80",
+    "rating" : "4.0",
+     "quantity" : 1
+    }
+    
+
+    ]
+    
+  }
