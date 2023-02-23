@@ -25,9 +25,10 @@ function Home() {
             <p>DualSense Edge Review: Cutting-Edge Comes at a Cost</p>
            </div>
       </Box>
-      
+       
       <Box className='Gridbox'>
            <div>
+           
             <img src={firstphoto} alt="indepth1" />
             <Link to="/about"><p>DualSense Edge Review: Cutting-Edge Comes at a Cost</p></Link>
            </div>
@@ -42,9 +43,10 @@ function Home() {
            <div>
             <img src={photo4} alt="indepth1" />
             <Link to="/about"><p>DualSense Edge Review: Cutting-Edge Comes at a Cost</p></Link>
+           
            </div>
-           <div className='video_section' >
-             <h1><b>LATEST VIDEOS</b></h1>
+           
+           
              <Link to="./VideoPlayer"> <div>
              <img  src={photo6} alt="" />
               <h1><b>Review of The Lenovo Legion Slim 7i</b></h1>
@@ -63,7 +65,13 @@ function Home() {
                
               
             </div></Link>
-           </div>
+            <Link to="./VideoPlayer"> <div>
+             <img  src={photo6} alt="" />
+              <h1><b>Review of The Lenovo Legion Slim 7i</b></h1>
+               
+              
+            </div></Link>
+           
         </Box>
         
        <Box className='part30'>
