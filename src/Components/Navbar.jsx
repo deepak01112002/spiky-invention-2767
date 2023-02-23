@@ -9,6 +9,7 @@ import {
 } from '@chakra-ui/react'
 import {Icon} from '@chakra-ui/react'
 import {TriangleDownIcon} from '@chakra-ui/icons'
+// import Element from '../Pages/Element'
 function Navbar() {
   
 
@@ -34,7 +35,7 @@ function Navbar() {
           
         </li>
         <li>
-          <NavLink to="/" activeClassName="active"
+          <NavLink to="/Element" activeClassName="active"
           className="hovereffect">NEWS </NavLink>
           
           
@@ -59,11 +60,11 @@ function Navbar() {
               VIDEOS <Icon as={TriangleDownIcon}/>
             </MenuButton>
             <MenuList className='menulist'>
-              <NavLink to="/about"><MenuItem className='menuitem'>Download</MenuItem></NavLink>
-              <MenuItem className='menuitem'>Create a Copy</MenuItem>
-              <MenuItem className='menuitem'>Mark as Draft</MenuItem>
-              <MenuItem className='menuitem'>Delete</MenuItem>
-              <MenuItem className='menuitem'>Attend a Workshop</MenuItem>
+              <NavLink to="/about"><MenuItem className='menuitem'>BUYING-GUIDS</MenuItem></NavLink>
+              <MenuItem className='menuitem'>CRYPTOCURRENCY</MenuItem>
+              <MenuItem className='menuitem'>EVENTS</MenuItem>
+              <MenuItem className='menuitem'>HOW TOS</MenuItem>
+              <MenuItem className='menuitem'>SPONSER</MenuItem>
             </MenuList>
           </Menu>
         </NavLink>
@@ -154,6 +155,7 @@ function Navbar() {
         
         </li>
         </div>
+        
     </nav>
   )
 }

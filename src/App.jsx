@@ -8,6 +8,8 @@ import {Link} from 'react-router-dom'
 import AllRoutes from './Components/AllRoutes';
 import Upperposter from './Upperposter.png'
 import Home from './Pages/Home'
+import Element from './Pages/Element';
+import LargeWithLogoLeft from './Pages/Footer'
 function App() {
  
   return (
@@ -20,7 +22,8 @@ function App() {
       </div>
       <Navbar/>
       <AllRoutes/>
-     
+      <LargeWithLogoLeft/>
+      
       
       
     </div>
