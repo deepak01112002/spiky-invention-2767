@@ -1,61 +1,30 @@
 {
-    "data": [
-      { "id": 1, "name": "Poco X3","price": 44500, "category":"mobile","discount":"discount-item",
-      "img":"https://i.gadgets360cdn.com/products/small/poco-x5-pro-5g-db-240x180-1675686969.jpg",
-      "rating" : "4.2",
-       "quantity" : 1
+  "news" : [
+      { "id": 1, 
+      "heading": "Google Photos Updated With Magic Eraser Feature, HDR Video Effect for Pixel Owners and Google One Subscribers",
+      "img":"https://i.gadgets360cdn.com/large/google_photos_magic_eraser_google_1677133137202.jpg?downsize=400:*",
+       "news" : "Google Photos is adding support for Magic Eraser, the company's machine learning and AI-based photo editing feature to edit out unwanted objects and people in photos, for all Google One subscribers, the company announced on Thursday. The feature was previously available only to owners of Pixel 7 and Pixel 6 series smartphones, simplifying what was once a tedious task that required the use of apps like Photoshop. The company is also bringing an HDR video effect and new collage styles to Google Photos on iOS and Android smartphones.According to details shared by Google, the Magic Eraser feature that was previously exclusive to the Pixel 7 and Pixel 6 series of smartphones, will now be available to all Google One subscribers. The feature will be available to users across all plans. Owners of the Pixel 5a and earlier Pixel models will also gain support for Magic Eraser in Google Photos, without a subscription, the company says.  Google's Magic Eraser feature relies on machine learning and AI computing that is performed on-device for the Pixel 7, Pixel 7 Pro, Pixel 6, and Pixel 6 Pro smartphones. Users can remove people, or objects like fences and power lines from their photos by tapping, circling or brushing over them. On other devices that are not equipped with Google's in-house Tensor SoC, these AI tasks will likely be performed on the company's servers. "
       },
-      { "id": 2, "name": "Vivo YS6 5G","price": 40500, "category":"mobile","discount":"discount-item",
-      "img":"https://i.gadgets360cdn.com/products/small/vivo-y56-5g-db-240x180-1676541525.jpg?downsize=*:80",
-      "rating" : "4.3",
-       "quantity" : 1
+      { "id": 2, 
+      "heading": "Google, Apple, Meta, Netflix May Have to Pay Network Costs as EU Launches Telecom Sector Consultation",
+      "img":"https://i.gadgets360cdn.com/large/google_photos_magic_eraser_google_1677133137202.jpg?downsize=400:*",
+       "news" : "The European Commission on Thursday launched a consultation on the future of Europe's telecoms sector, starting a process that could lead to requiring Alphabet's Google, Apple, Meta Platform and Netflix to pay some network costs. For more than two decades Deutsche Telekom, Orange, Telefonica, Telecom Italia and other operators have lobbied for leading technology companies to contribute to 5G and broadband roll-out. They argue companies The tech firms in response call it an internet tax that will undermine EU network neutrality rules to treat all users equally. The 12-week consultation will end on May 19.including Amazon and Microsoft account for more than half of data internet traffic.The tech firms in response call it an internet tax that will undermine EU network neutrality rules to treat all users equally. The 12-week consultation will end on May 19.EU industry chief Thierry Breton cited the heavy investments required to roll out 5G and broadband, saying he was not targeting any company."
       },
-      { "id": 3, "name": "Redmi 10 (2022) ","price": 32500, "category":"mobile","discount":"discount-item",
-      "img":"https://i.gadgets360cdn.com/products/small/redmi-10-2022-240x180-1644816688.jpg?downsize=*:80",
-      "rating" : "4.0",
-       "quantity" : 1
+      { "id": 3, 
+      "heading": "Google, Apple, Meta, Netflix May Have to Pay Network Costs as EU Launches Telecom Sector Consultation",
+      "img":"https://i.gadgets360cdn.com/large/google_photos_magic_eraser_google_1677133137202.jpg?downsize=400:*",
+       "news" : "The European Commission on Thursday launched a consultation on the future of Europe's telecoms sector, starting a process that could lead to requiring Alphabet's Google, Apple, Meta Platform and Netflix to pay some network costs. For more than two decades Deutsche Telekom, Orange, Telefonica, Telecom Italia and other operators have lobbied for leading technology companies to contribute to 5G and broadband roll-out. They argue companies The tech firms in response call it an internet tax that will undermine EU network neutrality rules to treat all users equally. The 12-week consultation will end on May 19.including Amazon and Microsoft account for more than half of data internet traffic.The tech firms in response call it an internet tax that will undermine EU network neutrality rules to treat all users equally. The 12-week consultation will end on May 19.EU industry chief Thierry Breton cited the heavy investments required to roll out 5G and broadband, saying he was not targeting any company."
       },
-      { "id": 4, "name": "One Plus 11B","price": 50500, "category":"mobile","discount":"discount-item",
-      "img":"https://i.gadgets360cdn.com/products/small/redmi-10-2022-240x180-1644816688.jpg?downsize=*:80",
-      "rating" : "4.5",
-       "quantity" : 1
+      { "id": 4, 
+      "heading": "Google, Apple, Meta, Netflix May Have to Pay Network Costs as EU Launches Telecom Sector Consultation",
+      "img":"https://i.gadgets360cdn.com/large/google_photos_magic_eraser_google_1677133137202.jpg?downsize=400:*",
+       "news" : "The European Commission on Thursday launched a consultation on the future of Europe's telecoms sector, starting a process that could lead to requiring Alphabet's Google, Apple, Meta Platform and Netflix to pay some network costs. For more than two decades Deutsche Telekom, Orange, Telefonica, Telecom Italia and other operators have lobbied for leading technology companies to contribute to 5G and broadband roll-out. They argue companies The tech firms in response call it an internet tax that will undermine EU network neutrality rules to treat all users equally. The 12-week consultation will end on May 19.including Amazon and Microsoft account for more than half of data internet traffic.The tech firms in response call it an internet tax that will undermine EU network neutrality rules to treat all users equally. The 12-week consultation will end on May 19.EU industry chief Thierry Breton cited the heavy investments required to roll out 5G and broadband, saying he was not targeting any company."
       },
-      { "id": 5, "name": "One Plus Nord CE 2 Lite 5G","price": 60500, "category":"mobile","discount":"discount-item",
-      "img":"https://i.gadgets360cdn.com/products/small/redmi-10-2022-240x180-1644816688.jpg?downsize=*:80",
-      "rating" : "4.9",
-       "quantity" : 1
-      },
-      { "id": 6, "name": "Iphone 13","price": 90999, "category":"mobile","discount":"discount-item",
-      "img":"https://i.gadgets360cdn.com/products/small/iphone-13-1-240x180-1631648722.jpg?downsize=*:80",
-      "rating" : "4.9",
-       "quantity" : 1
-      },
-      { "id": 7, "name": "Poco C5s","price": 15000, "category":"mobile","discount":"discount-item",
-      "img":"https://i.gadgets360cdn.com/products/small/poco-c55-240x180-1676963902.jpg?downsize=*:80",
-      "rating" : "4.2",
-       "quantity" : 1
-      },
-      { "id": 8, "name": "Honor Magic 5 Lite","price": 32999, "category":"mobile","discount":"discount-item",
-      "img":"https://i.gadgets360cdn.com/products/small/redmi-10-2022-240x180-1644816688.jpg?downsize=*:80",
-      "rating" : "4.2",
-       "quantity" : 1
-      },
-      { "id": 9, "name": "Techno Pop 7 Pro","price": 18999, "category":"mobile","discount":"discount-item",
-      "img":"https://i.gadgets360cdn.com/products/small/poco-x5-pro-5g-db-240x180-1675686969.jpg",
-      "rating" : "3.2",
-       "quantity" : 1
-      },
-      { "id": 10, "name": "Vivo YS6 5G","price": 40500, "category":"mobile","discount":"discount-item",
-      "img":"https://i.gadgets360cdn.com/products/small/vivo-y56-5g-db-240x180-1676541525.jpg?downsize=*:80",
-      "rating" : "4.3",
-       "quantity" : 1
-      },
-    { "id": 11, "name": "Vivo Y100","price": 32999, "category":"mobile","discount":"discount-item",
-    "img":"https://i.gadgets360cdn.com/products/small/Vivo-Y100-DB-240x180-1676538863.jpg?downsize=*:80",
-    "rating" : "4.0",
-     "quantity" : 1
-    }
-    
+      { "id": 5, 
+      "heading": "Google Photos Updated With Magic Eraser Feature, HDR Video Effect for Pixel Owners and Google One Subscribers",
+      "img":"https://i.gadgets360cdn.com/large/google_photos_magic_eraser_google_1677133137202.jpg?downsize=400:*",
+       "news" : "Google Photos is adding support for Magic Eraser, the company's machine learning and AI-based photo editing feature to edit out unwanted objects and people in photos, for all Google One subscribers, the company announced on Thursday. The feature was previously available only to owners of Pixel 7 and Pixel 6 series smartphones, simplifying what was once a tedious task that required the use of apps like Photoshop. The company is also bringing an HDR video effect and new collage styles to Google Photos on iOS and Android smartphones.According to details shared by Google, the Magic Eraser feature that was previously exclusive to the Pixel 7 and Pixel 6 series of smartphones, will now be available to all Google One subscribers. The feature will be available to users across all plans. Owners of the Pixel 5a and earlier Pixel models will also gain support for Magic Eraser in Google Photos, without a subscription, the company says.  Google's Magic Eraser feature relies on machine learning and AI computing that is performed on-device for the Pixel 7, Pixel 7 Pro, Pixel 6, and Pixel 6 Pro smartphones. Users can remove people, or objects like fences and power lines from their photos by tapping, circling or brushing over them. On other devices that are not equipped with Google's in-house Tensor SoC, these AI tasks will likely be performed on the company's servers. "
+      }
 
     ]
     

@@ -10,21 +10,24 @@ import Upperposter from './Upperposter.png'
 import Home from './Pages/Home'
 import Element from './Pages/Element';
 import LargeWithLogoLeft from './Pages/Footer'
+import Product from './Pages/Product'
 function App() {
  
   return (
     <div className="App">
-      
+       
       <img src={upperlog} alt="" />
       <div className='UpperFlex'>
       <Link to="/"><img src={ProjectLogo} alt="Logo" width="65%" /></Link>
       <img src="https://tpc.googlesyndication.com/simgad/7927172843755219682" alt="add" />
       </div>
+      
       <Navbar/>
       <AllRoutes/>
+      {/* <Product /> */}
       <LargeWithLogoLeft/>
       
-      
+     
       
     </div>
   );

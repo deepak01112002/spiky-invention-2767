@@ -21,13 +21,12 @@
     margin: 10px;
 }
 .part25{
-    width: 15%;
-    border: 1px solid red;
-    margin: 15px;
+   margin: 15px;
+    text-align: center;
 }
-.part25 img{
+/* .part25 img{
     width: 100%;
-}
+} */
 .part30{
     width: 40%;
 }

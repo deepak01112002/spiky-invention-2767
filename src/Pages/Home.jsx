@@ -20,9 +20,13 @@ function Home() {
       <h1 style={{marginLeft:"200px",marginTop:"10px"}}><b>IN-DEPTH</b></h1>
     <Box className='flexcontainer'>
       <Box className='part25'>
-          <div>
-            <img src={firstphoto} alt="indepth1" />
-            <p>DualSense Edge Review: Cutting-Edge Comes at a Cost</p>
+          <div >
+            <Link to="/Element"><img src={firstphoto} alt="indepth1" />
+            <p>DualSense Edge Review: Cutting-Edge Comes at a Cost</p></Link>
+           </div>
+           <div>
+            <Link to="/Element"><img src={firstphoto} alt="indepth1" />
+            <p>DualSense Edge Review: Cutting-Edge Comes at a Cost</p></Link>
            </div>
       </Box>
        
