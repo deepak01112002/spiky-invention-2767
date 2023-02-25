@@ -11,6 +11,7 @@ import {Link} from 'react-router-dom'
 import {Icon} from '@chakra-ui/react'
 import { SearchIcon } from '@chakra-ui/icons'
 import './Home.css'
+import Product from './Product'
 function Home() {
   return (
     <div id='maincontainer'>
@@ -34,19 +35,19 @@ function Home() {
            <div>
            
             <img src={firstphoto} alt="indepth1" />
-            <Link to="/about"><p>DualSense Edge Review: Cutting-Edge Comes at a Cost</p></Link>
+            <Link to="/Element"><p>DualSense Edge Review: Cutting-Edge Comes at a Cost</p></Link>
            </div>
            <div>
             <img src={photo2} alt="indepth1" />
-            <Link to="/about"><p>DualSense Edge Review: Cutting-Edge Comes at a Cost</p></Link>
+            <Link to="/Element"><p>DualSense Edge Review: Cutting-Edge Comes at a Cost</p></Link>
            </div>
            <div>
             <img src={photo3} alt="indepth1" />
-            <Link to="/about"><p>DualSense Edge Review: Cutting-Edge Comes at a Cost</p></Link>
+            <Link to="/Element"><p>DualSense Edge Review: Cutting-Edge Comes at a Cost</p></Link>
            </div>
            <div>
             <img src={photo4} alt="indepth1" />
-            <Link to="/about"><p>DualSense Edge Review: Cutting-Edge Comes at a Cost</p></Link>
+            <Link to="/Element"><p>DualSense Edge Review: Cutting-Edge Comes at a Cost</p></Link>
            
            </div>
            
@@ -110,9 +111,13 @@ function Home() {
     
       </Box>
     </Box> 
-       
-   
+
+     <div>
+      <Product />
+      </div>  
+     
     </div>
+    
   )
 }
 

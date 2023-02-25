@@ -14,7 +14,7 @@ function Navbar() {
   
 
   return (
-    <nav style={{color:"grey"}}>
+    <nav style={{color:"grey",marginBottom:"10px"}}>
       <div style={{display:"flex",listStyleType:"none",justifyContent:"space-around"}}>
        <li>
           <NavLink to="/" activeClassName="active"
@@ -53,14 +53,14 @@ function Navbar() {
           
         </li>
         <li>
-        <NavLink to="#" activeClassName="active"
+        <NavLink to='#' activeClassName="active"
         className="hovereffect">
           <Menu>
             <MenuButton  >
               VIDEOS <Icon as={TriangleDownIcon}/>
             </MenuButton>
             <MenuList className='menulist'>
-              <NavLink to="/about"><MenuItem className='menuitem'>BUYING-GUIDS</MenuItem></NavLink>
+              <NavLink to="/"><MenuItem className='menuitem'>BUYING-GUIDS</MenuItem></NavLink>
               <MenuItem className='menuitem'>CRYPTOCURRENCY</MenuItem>
               <MenuItem className='menuitem'>EVENTS</MenuItem>
               <MenuItem className='menuitem'>HOW TOS</MenuItem>
@@ -85,7 +85,7 @@ function Navbar() {
               PRODUCT FINDER <Icon as={TriangleDownIcon}/>
             </MenuButton>
             <MenuList className='menulist'>
-              <NavLink to="/about"><MenuItem className='menuitem'>Download</MenuItem ></NavLink>
+              <NavLink to="/"><MenuItem className='menuitem'>Download</MenuItem ></NavLink>
               <MenuItem className='menuitem'>Create a Copy</MenuItem>
               <MenuItem>Mark as Draft</MenuItem>
               <MenuItem className='menuitem'>Delete</MenuItem>
@@ -103,7 +103,7 @@ function Navbar() {
               COMPARE <Icon as={TriangleDownIcon}/>
             </MenuButton>
             <MenuList className='menulist'>
-              <NavLink to="/about"><MenuItem className='menuitem'>Download</MenuItem ></NavLink>
+              <NavLink to="/"><MenuItem className='menuitem'>Download</MenuItem ></NavLink>
               <MenuItem className='menuitem'>Create a Copy</MenuItem>
               <MenuItem className='menuitem'>Mark as Draft</MenuItem>
               <MenuItem className='menuitem'>Delete</MenuItem>
@@ -126,7 +126,7 @@ function Navbar() {
               RECHARGE <Icon as={TriangleDownIcon}/>
             </MenuButton>
             <MenuList className='menulist'>
-              <NavLink to="/about"><MenuItem className='menuitem'>Download</MenuItem></NavLink>
+              <NavLink to="/"><MenuItem className='menuitem'>Download</MenuItem></NavLink>
               <MenuItem className='menuitem'>Create a Copy</MenuItem>
               <MenuItem className='menuitem'>Mark as Draft</MenuItem>
               <MenuItem className='menuitem'>Delete</MenuItem>
@@ -144,7 +144,7 @@ function Navbar() {
               MORE <Icon as={TriangleDownIcon}/>
             </MenuButton>
             <MenuList className='menulist'>
-              <NavLink to="/about"><MenuItem className='menuitem'>Download</MenuItem></NavLink>
+              <NavLink to="/"><MenuItem className='menuitem'>Download</MenuItem></NavLink>
               <MenuItem className='menuitem'>Create a Copy</MenuItem>
               <MenuItem className='menuitem'>Mark as Draft</MenuItem>
               <MenuItem className='menuitem'>Delete</MenuItem>

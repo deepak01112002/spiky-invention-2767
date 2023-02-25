@@ -26,7 +26,8 @@ export default function LargeWithLogoLeft() {
   return (
     <Box
       bg={'green.100'}
-      color={useColorModeValue('gray.700', 'gray.200')}>
+      color={useColorModeValue('gray.700', 'gray.200')}
+      style={{marginTop:"10px"}}>
       <Container as={Stack} maxW={'6xl'} py={10}>
         <SimpleGrid
           templateColumns={{ sm: '1fr 1fr', md: '2fr 1fr 1fr 1fr 1fr' }}
