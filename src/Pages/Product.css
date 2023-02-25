@@ -1,0 +1,4 @@
+.product-row::-webkit-scrollbar {
+    display: none;
+  }
+ 

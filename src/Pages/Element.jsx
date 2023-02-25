@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import {Link} from 'react-router-dom'
-import {Center} from '@chakra-ui/react'
+import photo7 from '../images/photo7.png'
 function Element() {
 
     const [data,setdata] = useState([])
@@ -16,6 +16,7 @@ function Element() {
     useEffect(()=>{
         fetchdata()
     },[])
+    
   return (
     <div>
        <div>
@@ -27,7 +28,9 @@ function Element() {
                 <img src={el.img} alt="newsimage" />           
                 </div>
                 <div>
-                  <Link to={`/Element/${el.id}`}><Center>{el.heading}</Center></Link>
+                  <Link to={`/Element/${el.id}`}>{el.heading}
+                  <img src={photo7} alt=""/>
+                  </Link>
                  
                 </div> 
                 <hr />    

@@ -23,13 +23,13 @@ function Navbar() {
           
         </li>
         <li>
-          <NavLink to="/about" activeClassName="active"
+          <NavLink to="#" activeClassName="active"
           className="hovereffect">GUIDE </NavLink>
           
           
         </li>
         <li>
-          <NavLink to="/" activeClassName="active"
+          <NavLink to="#" activeClassName="active"
           className="hovereffect">MWC </NavLink>
           
           
@@ -41,19 +41,19 @@ function Navbar() {
           
         </li>
         <li>
-          <NavLink to="/" activeClassName="active"
+          <NavLink to="#" activeClassName="active"
           className="hovereffect">REVIEWS </NavLink>
           
           
         </li>
         <li>
-          <NavLink to="/" activeClassName="active"
+          <NavLink to="#" activeClassName="active"
           className="hovereffect">FEATURES </NavLink>
           
           
         </li>
         <li>
-        <NavLink to="/" activeClassName="active"
+        <NavLink to="#" activeClassName="active"
         className="hovereffect">
           <Menu>
             <MenuButton  >
@@ -71,14 +71,14 @@ function Navbar() {
         
         </li>
         <li>
-          <NavLink to="/" activeClassName="active"
+          <NavLink to="#" activeClassName="active"
           className="hovereffect">PODCASTS </NavLink>
           
           
         </li>
        
         <li>
-        <NavLink to="/" activeClassName="active"
+        <NavLink to="#" activeClassName="active"
         className="hovereffect">
           <Menu>
             <MenuButton  >
@@ -96,7 +96,7 @@ function Navbar() {
         
         </li>
         <li>
-        <NavLink to="/" activeClassName="active"
+        <NavLink to="#" activeClassName="active"
         className="hovereffect">
           <Menu>
             <MenuButton  >
@@ -114,12 +114,12 @@ function Navbar() {
         
         </li>
         <li>
-        <NavLink to="/about" activeClassName="active"
+        <NavLink to="#" activeClassName="active"
         className="hovereffect">BRANDS </NavLink>
         
         </li>
         <li>
-        <NavLink to="/" activeClassName="active"
+        <NavLink to="#" activeClassName="active"
         className="hovereffect">
           <Menu>
             <MenuButton  >
@@ -137,7 +137,7 @@ function Navbar() {
         
         </li>
         <li>
-        <NavLink to="/" activeClassName="active"
+        <NavLink to="#" activeClassName="active"
         className="hovereffect">
           <Menu>
             <MenuButton  >
