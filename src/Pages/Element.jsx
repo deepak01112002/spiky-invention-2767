@@ -20,7 +20,7 @@ function Element() {
   return (
     <div>
        <div>
-        <h1>TECHNOLOGY NEWS</h1>
+        <h1><b>TECHNOLOGY NEWS</b></h1>
         <hr />
          { data.map((el)=>(
             <div style={{display:"flex",justifyContent:"space-around"}} key={el.id}>

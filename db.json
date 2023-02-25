@@ -26,6 +26,128 @@
        "news" : "Google Photos is adding support for Magic Eraser, the company's machine learning and AI-based photo editing feature to edit out unwanted objects and people in photos, for all Google One subscribers, the company announced on Thursday. The feature was previously available only to owners of Pixel 7 and Pixel 6 series smartphones, simplifying what was once a tedious task that required the use of apps like Photoshop. The company is also bringing an HDR video effect and new collage styles to Google Photos on iOS and Android smartphones.According to details shared by Google, the Magic Eraser feature that was previously exclusive to the Pixel 7 and Pixel 6 series of smartphones, will now be available to all Google One subscribers. The feature will be available to users across all plans. Owners of the Pixel 5a and earlier Pixel models will also gain support for Magic Eraser in Google Photos, without a subscription, the company says.  Google's Magic Eraser feature relies on machine learning and AI computing that is performed on-device for the Pixel 7, Pixel 7 Pro, Pixel 6, and Pixel 6 Pro smartphones. Users can remove people, or objects like fences and power lines from their photos by tapping, circling or brushing over them. On other devices that are not equipped with Google's in-house Tensor SoC, these AI tasks will likely be performed on the company's servers. "
       }
 
+    ],
+    "products" : [
+      {
+        "id" : 1,
+         "img" : "https://i.gadgets360cdn.com/products/small/Inspiron-14-DB-240x180-1618318341.jpeg?downsize=120:*",
+         "name" : "DELL INSPIRON 14 (5410)",
+          "displaysize" : "14 inch",
+          "resolution" : "1920*1080",
+          "touchscreen" : "No",
+          "Processor" : "Core i3",
+          "Os" : "Window 10",
+           "Harddisk" : "No",
+           "detail" : "Dell Inspiron 14 (5410) Summary Dell Inspiron 14 (5410) is a Windows 10 laptop with a 14.00-inch display that has a resolution of 1920x1080 pixels. It is powered by a Core i3 processor and it comes with 4GB of RAM. The Dell Inspiron 14 (5410) packs 128GB of SSD storage .Connectivity options include Wi-Fi 802.11 ax and it comes with 4 USB ports, USB 3.2 Gen 1 (Type A), USB 3.2 Gen 2 (Type C), Thunderbolt 4 (Type C), HDMI Port, Multi Card Slot, Headphone and Mic Combo Jack ports.As of 26th February 2023, Dell Inspiron 14 (5410) price in India starts at Rs. 54,700."
+      },
+      {
+        "id" : 2,
+         "img" : "https://i.gadgets360cdn.com/products/laptops/small/1546454619_120_dell_1546454619_635_dell_latitude-7480_1546454619.jpg?downsize=120:*",
+         "name" : "DELL LATITUDE (7480)",
+          "displaysize" : "15 inch",
+          "resolution" : "1920*1080",
+          "touchscreen" : "No",
+          "Processor" : "Core i3",
+          "Os" : "Window 10",
+           "Harddisk" : "1TB",
+           "detail" : "DELL LATITUDE (7480) Summary DELL LATITUDE (7480) is a Windows 10 laptop with a 14.00-inch display that has a resolution of 1920x1080 pixels. It is powered by a Core i3 processor and it comes with 4GB of RAM. The DELL LATITUDE (7480) packs 128GB of SSD storage .Connectivity options include Wi-Fi 802.11 ax and it comes with 4 USB ports, USB 3.2 Gen 1 (Type A), USB 3.2 Gen 2 (Type C), Thunderbolt 4 (Type C), HDMI Port, Multi Card Slot, Headphone and Mic Combo Jack ports.As of 26th February 2023, Dell Inspiron 14 (5410) price in India starts at Rs. 54,700."
+      },
+      {
+        "id" : 3,
+         "img" : "https://i.gadgets360cdn.com/products/small/HP-Victus-DB-240x180-1627278520.jpg?downsize=120:*",
+         "name" : "HP VICTUS 16 E SERIES",
+          "displaysize" : "16.10 inch",
+          "resolution" : "1920*1080",
+          "touchscreen" : "No",
+          "Processor" : "Core i3",
+          "Os" : "Window 10",
+           "Harddisk" : "512 GB",
+           "detail" : "DELL LATITUDE (7480) Summary DELL LATITUDE (7480) is a Windows 10 laptop with a 14.00-inch display that has a resolution of 1920x1080 pixels. It is powered by a Core i3 processor and it comes with 4GB of RAM. The DELL LATITUDE (7480) packs 128GB of SSD storage .Connectivity options include Wi-Fi 802.11 ax and it comes with 4 USB ports, USB 3.2 Gen 1 (Type A), USB 3.2 Gen 2 (Type C), Thunderbolt 4 (Type C), HDMI Port, Multi Card Slot, Headphone and Mic Combo Jack ports.As of 26th February 2023, Dell Inspiron 14 (5410) price in India starts at Rs. 54,700."
+      },
+      {
+        "id" : 4,
+         "img" : "https://i.gadgets360cdn.com/products/small/Acer-Aspire-Vero-240x180-1639059131.jpg?downsize=120:*",
+         "name" : "ACER ASPIRE VERO (AV15-51)",
+          "displaysize" : "16.10 inch",
+          "resolution" : "1920*1080",
+          "touchscreen" : "No",
+          "Processor" : "Core i3",
+          "Os" : "Window 10",
+           "Harddisk" : "512 GB",
+           "detail" : "DELL LATITUDE (7480) Summary DELL LATITUDE (7480) is a Windows 10 laptop with a 14.00-inch display that has a resolution of 1920x1080 pixels. It is powered by a Core i3 processor and it comes with 4GB of RAM. The DELL LATITUDE (7480) packs 128GB of SSD storage .Connectivity options include Wi-Fi 802.11 ax and it comes with 4 USB ports, USB 3.2 Gen 1 (Type A), USB 3.2 Gen 2 (Type C), Thunderbolt 4 (Type C), HDMI Port, Multi Card Slot, Headphone and Mic Combo Jack ports.As of 26th February 2023, Dell Inspiron 14 (5410) price in India starts at Rs. 54,700."
+      },
+      {
+        "id" : 5,
+         "img" : "https://i.gadgets360cdn.com/products/small/hp-victus-15-2022-240x180-1655989889.jpg?downsize=120:*",
+         "name" : "ASUS VIVOBOOK K15",
+          "displaysize" : "16.10 inch",
+          "resolution" : "1920*1080",
+          "touchscreen" : "No",
+          "Processor" : "Core i3",
+          "Os" : "Window 10",
+           "Harddisk" : "512 GB",
+           "detail" : "DELL LATITUDE (7480) Summary DELL LATITUDE (7480) is a Windows 10 laptop with a 14.00-inch display that has a resolution of 1920x1080 pixels. It is powered by a Core i3 processor and it comes with 4GB of RAM. The DELL LATITUDE (7480) packs 128GB of SSD storage .Connectivity options include Wi-Fi 802.11 ax and it comes with 4 USB ports, USB 3.2 Gen 1 (Type A), USB 3.2 Gen 2 (Type C), Thunderbolt 4 (Type C), HDMI Port, Multi Card Slot, Headphone and Mic Combo Jack ports.As of 26th February 2023, Dell Inspiron 14 (5410) price in India starts at Rs. 54,700."
+      },
+      {
+        "id" : 6,
+         "img" : "https://i.gadgets360cdn.com/products/small/Inspiron-14-DB-240x180-1618318341.jpeg?downsize=120:*",
+         "name" : "DELL INSPIRON 14 (5410)",
+          "displaysize" : "14 inch",
+          "resolution" : "1920*1080",
+          "touchscreen" : "No",
+          "Processor" : "Core i3",
+          "Os" : "Window 10",
+           "Harddisk" : "No",
+           "detail" : "DELL LATITUDE (7480) Summary DELL LATITUDE (7480) is a Windows 10 laptop with a 14.00-inch display that has a resolution of 1920x1080 pixels. It is powered by a Core i3 processor and it comes with 4GB of RAM. The DELL LATITUDE (7480) packs 128GB of SSD storage .Connectivity options include Wi-Fi 802.11 ax and it comes with 4 USB ports, USB 3.2 Gen 1 (Type A), USB 3.2 Gen 2 (Type C), Thunderbolt 4 (Type C), HDMI Port, Multi Card Slot, Headphone and Mic Combo Jack ports.As of 26th February 2023, Dell Inspiron 14 (5410) price in India starts at Rs. 54,700."
+      },
+      {
+        "id" : 7,
+         "img" : "https://i.gadgets360cdn.com/products/laptops/small/1546454619_120_dell_1546454619_635_dell_latitude-7480_1546454619.jpg?downsize=120:*",
+         "name" : "DELL LATITUDE (7480)",
+          "displaysize" : "15 inch",
+          "resolution" : "1920*1080",
+          "touchscreen" : "No",
+          "Processor" : "Core i3",
+          "Os" : "Window 10",
+           "Harddisk" : "1TB",
+           "detail" : "DELL LATITUDE (7480) Summary DELL LATITUDE (7480) is a Windows 10 laptop with a 14.00-inch display that has a resolution of 1920x1080 pixels. It is powered by a Core i3 processor and it comes with 4GB of RAM. The DELL LATITUDE (7480) packs 128GB of SSD storage .Connectivity options include Wi-Fi 802.11 ax and it comes with 4 USB ports, USB 3.2 Gen 1 (Type A), USB 3.2 Gen 2 (Type C), Thunderbolt 4 (Type C), HDMI Port, Multi Card Slot, Headphone and Mic Combo Jack ports.As of 26th February 2023, Dell Inspiron 14 (5410) price in India starts at Rs. 54,700."
+      },
+      {
+        "id" : 8,
+         "img" : "https://i.gadgets360cdn.com/products/small/HP-Victus-DB-240x180-1627278520.jpg?downsize=120:*",
+         "name" : "HP VICTUS 16 E SERIES",
+          "displaysize" : "16.10 inch",
+          "resolution" : "1920*1080",
+          "touchscreen" : "No",
+          "Processor" : "Core i3",
+          "Os" : "Window 10",
+           "Harddisk" : "512 GB",
+           "detail" : "DELL LATITUDE (7480) Summary DELL LATITUDE (7480) is a Windows 10 laptop with a 14.00-inch display that has a resolution of 1920x1080 pixels. It is powered by a Core i3 processor and it comes with 4GB of RAM. The DELL LATITUDE (7480) packs 128GB of SSD storage .Connectivity options include Wi-Fi 802.11 ax and it comes with 4 USB ports, USB 3.2 Gen 1 (Type A), USB 3.2 Gen 2 (Type C), Thunderbolt 4 (Type C), HDMI Port, Multi Card Slot, Headphone and Mic Combo Jack ports.As of 26th February 2023, Dell Inspiron 14 (5410) price in India starts at Rs. 54,700."
+      },
+      {
+        "id" : 9,
+         "img" : "https://i.gadgets360cdn.com/products/small/Acer-Aspire-Vero-240x180-1639059131.jpg?downsize=120:*",
+         "name" : "ACER ASPIRE VERO (AV15-51)",
+          "displaysize" : "16.10 inch",
+          "resolution" : "1920*1080",
+          "touchscreen" : "No",
+          "Processor" : "Core i3",
+          "Os" : "Window 10",
+           "Harddisk" : "512 GB",
+           "detail" : "DELL LATITUDE (7480) Summary DELL LATITUDE (7480) is a Windows 10 laptop with a 14.00-inch display that has a resolution of 1920x1080 pixels. It is powered by a Core i3 processor and it comes with 4GB of RAM. The DELL LATITUDE (7480) packs 128GB of SSD storage .Connectivity options include Wi-Fi 802.11 ax and it comes with 4 USB ports, USB 3.2 Gen 1 (Type A), USB 3.2 Gen 2 (Type C), Thunderbolt 4 (Type C), HDMI Port, Multi Card Slot, Headphone and Mic Combo Jack ports.As of 26th February 2023, Dell Inspiron 14 (5410) price in India starts at Rs. 54,700."
+      },
+      {
+        "id" : 10,
+         "img" : "https://i.gadgets360cdn.com/products/small/hp-victus-15-2022-240x180-1655989889.jpg?downsize=120:*",
+         "name" : "ASUS VIVOBOOK K15",
+          "displaysize" : "16.10 inch",
+          "resolution" : "1920*1080",
+          "touchscreen" : "No",
+          "Processor" : "Core i3",
+          "Os" : "Window 10",
+           "Harddisk" : "512 GB",
+           "detail" : "DELL LATITUDE (7480) Summary DELL LATITUDE (7480) is a Windows 10 laptop with a 14.00-inch display that has a resolution of 1920x1080 pixels. It is powered by a Core i3 processor and it comes with 4GB of RAM. The DELL LATITUDE (7480) packs 128GB of SSD storage .Connectivity options include Wi-Fi 802.11 ax and it comes with 4 USB ports, USB 3.2 Gen 1 (Type A), USB 3.2 Gen 2 (Type C), Thunderbolt 4 (Type C), HDMI Port, Multi Card Slot, Headphone and Mic Combo Jack ports.As of 26th February 2023, Dell Inspiron 14 (5410) price in India starts at Rs. 54,700."
+      }
     ]
     
   }

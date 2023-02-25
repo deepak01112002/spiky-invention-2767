@@ -14,7 +14,7 @@ function Product() {
         <div style={{marginLeft:"250px"}}>
         <h1> <b>PRODUCT FINDER</b> </h1> 
         </div>
-       <div className='product-row' style={{display:"flex",width:"40%",overflow:"auto",margin:"auto"}}>
+        <Link to="/products"><div className='product-row' style={{display:"flex",width:"40%",overflow:"auto",margin:"auto"}}>
        <img className='image' src={photo8} alt="nooo" /> 
             <img src={photo9} alt="" />
             <img src={photo10} alt="" />
@@ -29,7 +29,7 @@ function Product() {
         </div>
         <div style={{width:"60%",margin:"auto",marginTop:"5px"}}>
            <img src={photo14} alt="" /> 
-        </div> 
+        </div> </Link>
     </div>
   )
 }
