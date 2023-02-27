@@ -1,6 +1,7 @@
 <h1 align="center">CLONE OF GADGET360</h1>
-<img src="https://user-images.githubusercontent.com/115465871/213980137-578b8b38-f647-4c02-886f-133bbbcbea4e.jpeg" width="100%" ><br>
-<h1 align="center" >FASHION FUSION</h1>
+<img src="https://user-images.githubusercontent.com/115460382/221489668-59477724-702b-4ab5-b218-453a0c9a9596.png" width="100%" ><br>
+<h1 align="center" >GADGET GALLERY</h1>
+![HOMEPAGE](https://user-images.githubusercontent.com/115460382/221489668-59477724-702b-4ab5-b218-453a0c9a9596.png)
 
 
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/ContentHeftyGuillemot-size_restricted.gif"> <br>
