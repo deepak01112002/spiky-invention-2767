@@ -7,7 +7,7 @@
 ![VIDEOPAGE](https://user-images.githubusercontent.com/115460382/221490260-90e646cb-19f3-4d8e-ba52-6f3cb7d5f47a.png)
 ![TECHNOLOGY](https://user-images.githubusercontent.com/115460382/221490253-867f638b-2656-47a7-831c-b29f27fd9678.png) -->
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/115460382/221490237-6f3fa19e-86fc-4c1b-9370-0af3052319ce.png"> <br>
+
 
 
 </ul>
